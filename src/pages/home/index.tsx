@@ -40,13 +40,9 @@ const Home = () => {
               aeroespacial.
             </p>
           </div>
-          <Image
+          <img
             src="/static/images/home/global-map.png"
             alt="Imagem do mapa mundial"
-            layout="responsive"
-            objectFit="contain"
-            width="50%"
-            height="50%"
           />
         </Hero>
         <Spacer gap={40} />
