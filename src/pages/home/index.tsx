@@ -12,7 +12,7 @@ import {
   WrapperSlider,
   SegmentContent,
   Brands,
-} from "./styles";
+} from "./_styles";
 import ContactSection from "../../components/ContactSection";
 
 const Home = () => {
